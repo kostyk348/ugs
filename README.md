@@ -1,5 +1,8 @@
 # UGS v2 — Universal Generation Specification
 
+[![Release](https://img.shields.io/github/v/release/kostyk348/ugs?sort=semver&color=blue)](https://github.com/kostyk348/ugs/releases)
+[![Last commit](https://img.shields.io/github/last-commit/kostyk348/ugs?branch=main)](https://github.com/kostyk348/ugs/commits/main)
+
 UGS is not a prompt. UGS is a **specification of a virtual reality**. Any image or video is a *consequence* of a simulation, never its goal.
 
 > **Do not describe the picture. Describe the world. The picture emerges on its own.**
